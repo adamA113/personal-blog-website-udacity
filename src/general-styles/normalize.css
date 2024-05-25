@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    line-height: 1.15;
+}
+
+body {
+    margin: 0;
+}
+
+main {
+    display: block;
+}
+
+image {
+    border-style: none;
+}

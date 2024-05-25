@@ -1,0 +1,15 @@
+:root {
+    --page-inline-padding: 2rem;
+}
+
+body {
+    font-family: "Open Sans", sans-serif;
+    font-size: 16px;
+    color: var(--body);
+    background-color: var(--body-bg);
+}
+
+a { 
+    text-decoration: none;
+    color: var(--body)
+}

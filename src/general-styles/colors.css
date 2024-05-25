@@ -1,0 +1,10 @@
+:root {
+    --body: #212529;
+    --body-bg: #f7fbff;
+    --light: #fff;
+    --border: #ddd;
+    --paragraph: #666;
+    --links: #ff0000;
+    --action-button: #ff6b6b;
+    --action-button-hover: #e05b5b;
+}
