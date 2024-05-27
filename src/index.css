@@ -36,13 +36,6 @@ header {
     padding-inline: var(--page-inline-padding);
 }
 
-/* .blog-image {
-    background-image: url("../assets/mountain.jpg");
-    background-repeat: round;
-    width: 222px;
-    height: 200px;
-} */
-
 .blog-image {
     padding-block-end: 1rem;
 }
@@ -60,13 +53,9 @@ header {
     object-fit: cover;
 }
 
-.share:hover {
+.share:hover, .heart:hover, .comment:hover, .view:hover {
     color: var(--action-button-hover);
     cursor: pointer;
-}
-
-.heart:hover, .comment:hover, .view:hover {
-    color: var(--action-button-hover);
 }
 
 .blog-card-container {
